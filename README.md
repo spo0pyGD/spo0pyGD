@@ -1,4 +1,4 @@
-Game Development student @Full Sail University, no prior experience.
+Game Development student @Full Sail University.
 - Programming is fun, and I hope I don't ever stop learning :)
 - Current experience: C# , C++
 
